@@ -1,0 +1,11 @@
+[
+  {
+    "personId": "P001",
+    "name": "Aarav Sharma",
+    "bio": "Full-stack developer from India who loves coding and problem solving.",
+    "countryCode": "+91",
+    "phoneNumber": "9876543210",
+    "emailId": "aarav.sharma@example.com",
+    "picUrl": "https://cdn.pixabay.com/photo/2022/03/11/06/14/indian-man-7061278_1280.jpg"
+  }
+]

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ShadowChat/static/css/main.209114cb.css",
-    "main.js": "/ShadowChat/static/js/main.e51a6cc9.js",
+    "main.css": "/ShadowChat/static/css/main.9a126d7d.css",
+    "main.js": "/ShadowChat/static/js/main.a04b4911.js",
     "static/js/453.96453769.chunk.js": "/ShadowChat/static/js/453.96453769.chunk.js",
     "static/media/blueball.mov": "/ShadowChat/static/media/blueball.3f776adeb03f23ac829d.mov",
     "index.html": "/ShadowChat/index.html",
-    "main.209114cb.css.map": "/ShadowChat/static/css/main.209114cb.css.map",
-    "main.e51a6cc9.js.map": "/ShadowChat/static/js/main.e51a6cc9.js.map",
+    "main.9a126d7d.css.map": "/ShadowChat/static/css/main.9a126d7d.css.map",
+    "main.a04b4911.js.map": "/ShadowChat/static/js/main.a04b4911.js.map",
     "453.96453769.chunk.js.map": "/ShadowChat/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.209114cb.css",
-    "static/js/main.e51a6cc9.js"
+    "static/css/main.9a126d7d.css",
+    "static/js/main.a04b4911.js"
   ]
 }

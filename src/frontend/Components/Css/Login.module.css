@@ -1,0 +1,47 @@
+.container > input:not(input[type='submit']){
+
+    width: 80%;
+
+}
+
+
+  @media only screen and (max-width: 610px) {
+
+
+    .container {
+      width: 75%;
+      height: 430px;
+    }
+    .logintext{
+        position: absolute;
+        bottom: 100px;
+        left: 30px;
+    }
+
+    
+
+
+
+  }
+
+
+
+    @media only screen and (min-width: 610px) {
+
+
+    .container {
+      width: 23%;
+      height: 400px;
+    }
+
+    .logintext{
+        position: absolute;
+        bottom: 90px;
+        left: 40px;
+    }
+
+
+
+  }
+
+   

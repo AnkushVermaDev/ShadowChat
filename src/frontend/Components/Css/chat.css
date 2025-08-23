@@ -1,0 +1,23 @@
+.option{
+
+    background-color: rgb(29, 28, 28);
+    cursor: pointer;
+
+}
+
+.option > h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+
+.gradient-text {
+  background: linear-gradient(to right, rgb(117, 117, 255), rgb(209, 1, 246), purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+input[type="file"] {
+  color: transparent;
+}

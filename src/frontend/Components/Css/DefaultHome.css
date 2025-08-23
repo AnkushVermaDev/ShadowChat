@@ -1,0 +1,47 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: black;
+  background-attachment: fixed;   /* keeps gradient still on scroll */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+video{
+    filter: brightness(0.8) contrast(1.4);
+
+}
+
+
+.featuresbox{
+    gap: 50px;
+    padding-right: 150px;
+
+
+}
+
+.features{
+    width: 300px;
+    height: 350px;
+    border: 1px solid rgb(255, 255, 255);
+
+}
+
+
+.plan{
+
+     border: 1px solid rgb(255, 255, 255);
+
+}
+
+.sideheader{
+    gap: 10px;
+}
+
+@media (min-width:650px) {
+.sideheader{
+    gap: 50px;
+}
+
+    
+}
